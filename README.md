@@ -9,3 +9,5 @@ Otto is a **Friendly Otter** Who trots around on your screen while you work. Whi
 
 Install it from [here!!](https://vineethjkatti-tech.itch.io/otto)
 
+Slack MSG link: https://hackclub.slack.com/archives/C0C51NCK1DG/p1792354985297839
+
